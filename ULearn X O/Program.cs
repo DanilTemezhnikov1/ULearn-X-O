@@ -80,6 +80,7 @@ namespace ULearn_X_O
                     if (field[x, y] != whoCheck)
                     {
                         win = false;
+                        var a = 4;
                         break;
                     }
                     
